@@ -1,0 +1,3 @@
+/Users/xushaoming/coding/ExchangeEngine/exchange-engine/build/CMakeFiles/exchange-engine.dir
+/Users/xushaoming/coding/ExchangeEngine/exchange-engine/build/CMakeFiles/edit_cache.dir
+/Users/xushaoming/coding/ExchangeEngine/exchange-engine/build/CMakeFiles/rebuild_cache.dir
